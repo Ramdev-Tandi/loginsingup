@@ -1,0 +1,1 @@
+export const IMG_URL = "https://th.bing.com/th/id/R.6a3e3ccbd2971f6c4e678e97f4dbca25?rik=rMwINoYYKNPFeg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fe%2f2%2f6%2f618308.jpg&ehk=rTlWwUIsNMnkR373pIzC9VOofyqUsKK78YJDD21u08Y%3d&risl=&pid=ImgRaw&r=0";
